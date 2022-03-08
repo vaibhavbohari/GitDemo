@@ -1,0 +1,17 @@
+C:\Users\VAIBHAV\Desktop\bridgelabz\HelloWorldTwo\HelloWorldTwo\bin\Debug\net6.0\HelloWorldTwo.exe
+C:\Users\VAIBHAV\Desktop\bridgelabz\HelloWorldTwo\HelloWorldTwo\bin\Debug\net6.0\HelloWorldTwo.deps.json
+C:\Users\VAIBHAV\Desktop\bridgelabz\HelloWorldTwo\HelloWorldTwo\bin\Debug\net6.0\HelloWorldTwo.runtimeconfig.json
+C:\Users\VAIBHAV\Desktop\bridgelabz\HelloWorldTwo\HelloWorldTwo\bin\Debug\net6.0\HelloWorldTwo.dll
+C:\Users\VAIBHAV\Desktop\bridgelabz\HelloWorldTwo\HelloWorldTwo\bin\Debug\net6.0\HelloWorldTwo.pdb
+C:\Users\VAIBHAV\Desktop\bridgelabz\HelloWorldTwo\HelloWorldTwo\obj\Debug\net6.0\HelloWorldTwo.csproj.AssemblyReference.cache
+C:\Users\VAIBHAV\Desktop\bridgelabz\HelloWorldTwo\HelloWorldTwo\obj\Debug\net6.0\HelloWorldTwo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VAIBHAV\Desktop\bridgelabz\HelloWorldTwo\HelloWorldTwo\obj\Debug\net6.0\HelloWorldTwo.AssemblyInfoInputs.cache
+C:\Users\VAIBHAV\Desktop\bridgelabz\HelloWorldTwo\HelloWorldTwo\obj\Debug\net6.0\HelloWorldTwo.AssemblyInfo.cs
+C:\Users\VAIBHAV\Desktop\bridgelabz\HelloWorldTwo\HelloWorldTwo\obj\Debug\net6.0\HelloWorldTwo.csproj.CoreCompileInputs.cache
+C:\Users\VAIBHAV\Desktop\bridgelabz\HelloWorldTwo\HelloWorldTwo\obj\Debug\net6.0\HelloWorldTwo.dll
+C:\Users\VAIBHAV\Desktop\bridgelabz\HelloWorldTwo\HelloWorldTwo\obj\Debug\net6.0\refint\HelloWorldTwo.dll
+C:\Users\VAIBHAV\Desktop\bridgelabz\HelloWorldTwo\HelloWorldTwo\obj\Debug\net6.0\HelloWorldTwo.pdb
+C:\Users\VAIBHAV\Desktop\bridgelabz\HelloWorldTwo\HelloWorldTwo\obj\Debug\net6.0\HelloWorldTwo.genruntimeconfig.cache
+C:\Users\VAIBHAV\Desktop\bridgelabz\HelloWorldTwo\HelloWorldTwo\obj\Debug\net6.0\ref\HelloWorldTwo.dll
+C:\Users\VAIBHAV\Desktop\bridgelabz\HelloWorldTwo\HelloWorldTwo\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\VAIBHAV\Desktop\bridgelabz\HelloWorldTwo\HelloWorldTwo\obj\Debug\net6.0\HelloWorldTwo.csproj.CopyComplete
